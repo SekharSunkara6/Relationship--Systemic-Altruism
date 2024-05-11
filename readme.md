@@ -1,5 +1,4 @@
-/  Assignment  /
-
+## Assignment ## 
 
 1. Automated Messaging and Communication
 The bot could handle sending automated messages to your contact list. This includes:
@@ -32,6 +31,6 @@ The bot could perform automated tasks such as:
 Setting up meetings or reminders based on conversation cues.
 Executing predefined actions like sending birthday greetings, anniversary notes, or periodic check-ins based on the calendar.
 
-// API USED
+## API USED ##
 For this project i used Google gemini API key. 
 
