@@ -11,15 +11,15 @@ The bot could handle sending automated messages to your contact list. This inclu
 Reaching out to people from the user's contact list based on specific criteria (excluding ex-partners).
 Initiating conversations or sending scheduled messages, possibly related to updates, greetings, reminders, or prompts for interaction based on user-defined settings or triggers.
 
-3. Personalization of Interactions
-The bot could personalize interactions based on:
-The relationship and previous interaction history with each contact.
-Preferences and interests of both the user and their contacts, potentially suggested by the user or learned over time through interaction patterns.
-
-4. Feedback Collection and Adaptation
+3. Feedback Collection and Adaptation
 It might also collect feedback on the interactions to:
 Learn and adapt its messaging strategy based on what is effective or appreciated by the contacts.
 Improve conversation starters and responses by learning from previous interactions and feedback.
+
+4. Personalization of Interactions
+The bot could personalize interactions based on:
+The relationship and previous interaction history with each contact.
+Preferences and interests of both the user and their contacts, potentially suggested by the user or learned over time through interaction patterns.
 
 5. Automated Task Execution
 The bot could perform automated tasks such as:
